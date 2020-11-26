@@ -45,7 +45,7 @@ class NavBar extends React.Component {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        Random Panda
+                        Random Pandala
                     </Nav>
                 </Navbar.Collapse>
                 </Navbar>

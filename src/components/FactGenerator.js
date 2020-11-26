@@ -30,7 +30,7 @@ class FactGenerator extends React.Component {
     render() {
         return (
             <div className="wrapper">
-                <div onClick={this.onClick} className="get_fact">panda fact</div>
+                <div onClick={this.onClick} className="get_fact">pandala fact</div>
                 <p className="display-fact">{this.state.fact}</p>
             </div>
           );

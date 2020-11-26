@@ -43,7 +43,7 @@ class BackgroundImageRefresh extends React.Component {
         }
         return (
             <div style={backgroundImage}>
-                <div onClick={this.onClick} className="get_background">Panda Background</div>
+                <div onClick={this.onClick} className="get_background">Pandala Background</div>
             </div>
           );
     }
